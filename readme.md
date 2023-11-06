@@ -2,7 +2,7 @@
 
 In this project i will use everything that i learned from the FullStack Project **The Odin Project**
 
-This project is based on HTML basis, usage of <a> tags, links (throught <a href="">), meta tags, usage of :
+This project is based on HTML basis, usage of <a> tags, links (throught .<a. .href="">.), meta tags, usage of :
 
 * ## Linux :
 I use a VM to host Xubuntu
