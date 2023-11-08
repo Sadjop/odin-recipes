@@ -5,6 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 20px;
+    flex-direction: column; /* Add this line */
 }
 
 h1, h2, h3 {
