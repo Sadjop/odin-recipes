@@ -1,0 +1,41 @@
+/* Style pour la page d'accueil */
+body {
+    background-color: #f2e8dc;
+}
+
+h1, h2, h3 {
+    color: #6d6875;
+}
+
+a {
+    color: #b5b2c2;
+}
+
+/* Style pour la page de recettes */
+.recipe {
+    background-color: #f8edeb;
+    border: 1px solid #e1d7d2;
+}
+
+.recipe h2 {
+    color: #6d6875;
+}
+
+.recipe a {
+    color: #b5b2c2;
+}
+
+/* Style pour la page de contact */
+form {
+    background-color: #f3e9e4;
+    border: 1px solid #e1d7d2;
+}
+
+form label {
+    color: #6d6875;
+}
+
+form input[type="submit"] {
+    background-color: #b5b2c2;
+    color: #fff;
+}
